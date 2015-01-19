@@ -1,0 +1,7 @@
+C:\Users\Piotr\workspace\Pogodynka\Pogodynka\obj\x86\Release\Pogodynka.Form1.resources
+C:\Users\Piotr\workspace\Pogodynka\Pogodynka\obj\x86\Release\Pogodynka.Properties.Resources.resources
+C:\Users\Piotr\workspace\Pogodynka\Pogodynka\obj\x86\Release\Pogodynka.csproj.GenerateResource.Cache
+C:\Users\Piotr\workspace\Pogodynka\Pogodynka\bin\Release\Pogodynka.exe
+C:\Users\Piotr\workspace\Pogodynka\Pogodynka\bin\Release\Pogodynka.pdb
+C:\Users\Piotr\workspace\Pogodynka\Pogodynka\obj\x86\Release\Pogodynka.exe
+C:\Users\Piotr\workspace\Pogodynka\Pogodynka\obj\x86\Release\Pogodynka.pdb

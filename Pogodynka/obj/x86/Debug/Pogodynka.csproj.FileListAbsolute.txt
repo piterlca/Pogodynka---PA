@@ -1,0 +1,8 @@
+C:\Users\Piotr\workspace\Pogodynka\Pogodynka\obj\x86\Debug\Pogodynka.Form1.resources
+C:\Users\Piotr\workspace\Pogodynka\Pogodynka\obj\x86\Debug\Pogodynka.Properties.Resources.resources
+C:\Users\Piotr\workspace\Pogodynka\Pogodynka\obj\x86\Debug\Pogodynka.csproj.GenerateResource.Cache
+C:\Users\Piotr\workspace\Pogodynka\Pogodynka\bin\Debug\Pogodynka.exe
+C:\Users\Piotr\workspace\Pogodynka\Pogodynka\bin\Debug\Pogodynka.pdb
+C:\Users\Piotr\workspace\Pogodynka\Pogodynka\obj\x86\Debug\Pogodynka.exe
+C:\Users\Piotr\workspace\Pogodynka\Pogodynka\obj\x86\Debug\Pogodynka.pdb
+C:\Users\Piotr\workspace\Pogodynka\Pogodynka\obj\x86\Debug\Pogodynka.csprojResolveAssemblyReference.cache
